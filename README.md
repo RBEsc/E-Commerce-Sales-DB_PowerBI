@@ -1,4 +1,4 @@
-# Global Supermarket Sales and Profit Analysis
+# Global Supermarket Sales Report
 
 ## Overview
 
