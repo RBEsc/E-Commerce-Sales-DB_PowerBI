@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository hosts an interactive business intelligence report using Power BI, for a "Global Supermarket" dataset. The report provides a comprehensive overview of sales, profit, and regional performance, designed to help stakeholders make data-driven decisions and identify key trends and opportunities.
+This repository hosts an interactive business intelligence report using Power BI, for a "Global E-Commerce store" dataset. The report provides a comprehensive overview of sales, profit, and regional performance, designed to help stakeholders make data-driven decisions and identify key trends and opportunities.
+![Business Overview](https://github.com/user-attachments/assets/da4e7831-550a-4e4e-883b-a47d0a239748)
+
+
 
 ## Features
 
