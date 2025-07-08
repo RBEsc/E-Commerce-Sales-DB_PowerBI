@@ -1,4 +1,4 @@
-# Global Supermarket Sales Report
+# E-Commerce Sales Dashboard
 
 ## Overview
 
